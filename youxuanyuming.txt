@@ -1,6 +1,5 @@
 a.cloudflare.19931110.xyz#IPv4
 a.cloudflare-dualstack.19931110.xyz#IPv4/IPv6
-cfcdn.019960.xyz#hk1996yhx
 www.visa.cn#visa中国优选
 www.visa.com#visa
 mfa.gov.ua#乌克兰外交部
